@@ -2,14 +2,14 @@
 
 ### 💡 AI Engineer | 🎯 Data Scientist | ✨ Generative AI Specialist | 🔬 Deep Learning Enthusiast
 
-**📍 India** | 📧 [rupeshmohan33@gmail.com](mailto:rupeshmohan33@gmail.com) | 📞 +91-9347601026
+**📍 India** | 📧 [rupeshmohan33@gmail.com](mailto:rupeshmohan33@gmail.com) | 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/mahankali-mohan/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/rupeshmohan33)
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm a passionate **AI Engineer** currently working at **3K Technology**, specializing in **Generative AI**. With a Master's in Data Science and hands-on experience in deploying AI solutions, I thrive on building impactful, scalable systems using the latest in ML, NLP, and LLMs. My focus lies in **multi-agent architectures**, **document Q\&A**, and **domain-specific LLM fine-tuning**.
+🎓 I'm a passionate **AI Engineer** currently working at **3K Technologies**, specializing in **Generative AI**. With a Master's in Data Science and hands-on experience in deploying AI solutions, I thrive on building impactful, scalable systems using the latest in ML, NLP, and LLMs. My focus lies in **multi-agent architectures**, **document Q\&A**, and **domain-specific LLM fine-tuning**.
 
 🌟 Always curious. Always building. Always evolving.
 
@@ -115,7 +115,6 @@ KBN College, Vijayawada (2022) | CGPA: 8.9
 ## 🌐 Connect With Me
 
 📧 **Email:** [rupeshmohan33@gmail.com](mailto:rupeshmohan33@gmail.com)
-📞 **Phone:** +91-9347601026
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mahankali-mohan/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/rupeshmohan33)
 
