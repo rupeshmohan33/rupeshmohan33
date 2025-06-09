@@ -3,7 +3,7 @@
 ### 💡 AI Engineer | 🎯 Data Scientist | ✨ Generative AI Specialist | 🔬 Deep Learning Enthusiast
 
 **📍 India** | 📧 [rupeshmohan33@gmail.com](mailto:rupeshmohan33@gmail.com) | 📞 +91-9347601026
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/your-linkedin-url) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/rupeshmohan33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/mahankali-mohan/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/rupeshmohan33)
 
 ---
 
@@ -116,7 +116,7 @@ KBN College, Vijayawada (2022) | CGPA: 8.9
 
 📧 **Email:** [rupeshmohan33@gmail.com](mailto:rupeshmohan33@gmail.com)
 📞 **Phone:** +91-9347601026
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mahankali-mohan/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/rupeshmohan33)
 
 ---
