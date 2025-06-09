@@ -1,109 +1,130 @@
 # 👋 Mahankali N V R Pavan Sai Mohan
 
-🎓 AI Engineer | Data Scientist | Deep Learning Enthusiast | Gen AI Practitioner  
-📍 India | 📧 rupeshmohan33@gmail.com | 
-🔗 [GitHub](https://github.com/your-github-username) • [LinkedIn](https://linkedin.com/in/your-linkedin-url)
+### 💡 AI Engineer | 🎯 Data Scientist | ✨ Generative AI Specialist | 🔬 Deep Learning Enthusiast
+
+**📍 India** | 📧 [rupeshmohan33@gmail.com](mailto:rupeshmohan33@gmail.com) | 📞 +91-9347601026
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/your-linkedin-url) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/rupeshmohan33)
 
 ---
 
 ## 🚀 About Me
 
-I'm an AI Engineer with a strong academic foundation and hands-on expertise in building intelligent systems that blend the power of Machine Learning, Deep Learning, and Generative AI. With a Master's in Data Science and an internship in AI product development, I specialize in solving real-world problems through innovative and scalable AI solutions. My interests lie in building high-impact AI applications in healthcare, NLP, and generative systems, powered by state-of-the-art models like LLaMA, Mistral, and Transformers.
+🎓 I'm a passionate **AI Engineer** currently working at **3K Technology**, specializing in **Generative AI**. With a Master's in Data Science and hands-on experience in deploying AI solutions, I thrive on building impactful, scalable systems using the latest in ML, NLP, and LLMs. My focus lies in **multi-agent architectures**, **document Q\&A**, and **domain-specific LLM fine-tuning**.
+
+🌟 Always curious. Always building. Always evolving.
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ Tech Stack
 
-### 🗣️ **Languages & Tools**
-- **Languages:** Python, R, SQL  
-- **Libraries/Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, HuggingFace Transformers  
-- **GenAI & LLMs:** LangChain, LLaMA2, Mistral-7B, FAISS, RAG, Sentence Transformers, OpenAI APIs  
-- **ML/DL Skills:** CNNs, RNNs, Attention Mechanisms, Transfer Learning, U-Net, Transformer Models  
-- **NLP:** Text Classification, Summarization, Named Entity Recognition, Chatbots  
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Data:** Pandas, NumPy, Image Processing, Feature Engineering, Time Series Analysis  
-- **DevOps & Deployment:** Streamlit, Gradio, Docker, Git, GitHub, VS Code  
-- **Databases:** PostgreSQL, MySQL, ChromaDB  
-- **MLOps (Beginner Level):** Weights & Biases, MLflow, Hugging Face Spaces  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge\&logo=data\:image/svg+xml;base64,\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
----
-
-## 🧪 Recent Projects
-
-### 🏥 Healthcare Chatbot using LangChain + LLaMA2-7B  
-> **LangChain | RAG | FAISS | HuggingFace | LLaMA2 | Streamlit**  
-- Built a LangChain-based Retrieval-Augmented Generation (RAG) chatbot integrated with LLaMA2-7B, achieving 30% improvement in response relevance.
-- Used FAISS for fast vector search (40% boost in retrieval speed) over >1 million medical records.
-- Delivered 35% increase in diagnostic recommendation accuracy via fine-tuning and rigorous validation.
-- Deployed via Streamlit for enhanced usability and 50% higher user engagement.
-
-### 🧬 Skin Cancer Segmentation using U-Net & Attention U-Net  
-> **U-Net | Medical Imaging | TensorFlow | OpenCV**  
-- Preprocessed >400 dermatoscopic images, applied augmentation and denoising.
-- Achieved a Dice Coefficient of **0.88**, sensitivity of **90%**, and specificity of **85%**.
-- Demonstrated deep learning’s impact on precision medicine and early diagnosis.
-
-### 🌫️ AQI Forecasting with ML Models  
-> **Time Series | Regression | Visualization**  
-- Forecasted Air Quality Index using 10+ years of historical data.
-- Employed models like Linear Regression & Decision Tree Regressor, achieving **R² = 0.85**, RMSE = 10.5.
-- Visualized trends showing 25% PM2.5 rise, aiding public health decision-making.
+**Languages:** Python, R, SQL
+**Frameworks/Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, LangChain, HuggingFace Transformers
+**GenAI/LLMs:** LLaMA2, Mistral-7B, Sentence Transformers, FAISS, RAG, ChromaDB, OpenAI APIs
+**ML/DL:** CNNs, RNNs, Transformers, U-Net, Attention, Transfer Learning
+**NLP:** Summarization, NER, Text Classification, Chatbots
+**Visualization:** Power BI, Tableau, Seaborn, Matplotlib
+**Deployment:** Streamlit, Gradio, Docker, GitHub Actions, VS Code
+**Data:** Pandas, NumPy, Feature Engineering, Time Series Analysis
+**MLOps:** MLflow, Weights & Biases (W\&B)
 
 ---
 
 ## 💼 Experience
 
-**AI Intern** – *Isnartech Pvt. Ltd*  
-📅 Jan 2024 – May 2024 | 📍 Remote  
-- Led development of a Text-to-Speech (TTS) system with 30% improvement in synthesis quality.
-- Preprocessed 5,000+ text-audio samples, enhancing model input quality by 20%.
-- Developed end-to-end pipelines for CNN-based image classification (95% accuracy) and NLP-based sentiment analysis.
-- Designed and deployed intelligent chatbot handling 100+ real-time user interactions.
+### 👨‍💻 Generative AI Engineer | **3K Technology**
+
+📆 *Present*
+
+* Fine-tuning custom LLMs for domain-specific retrieval tasks
+* Building agent-based **AutoGen** RAG pipelines for document intelligence
+* Developing multi-agent architecture with feedback loop systems
+
+### 🧠 AI Intern | **Isnartech Pvt. Ltd**
+
+📆 Jan 2024 – May 2024 | 🌐 Remote
+
+* Designed a TTS system with a 30% quality boost
+* Cleaned and processed 5,000+ audio-text samples
+* Built high-accuracy CNN classifiers (95%) and NLP models for sentiment detection
+* Created interactive chatbot managing 100+ user queries
 
 ---
 
-## 📜 Education
+## 🧪 Featured Projects
 
-**Master of Science in Data Science**  
-*Vellore Institute of Technology (VIT), Amaravati*  
-📅 July 2024 | 📈 CGPA: 8.58  
+### 🏥 Healthcare Chatbot – **LangChain + LLaMA2-7B**
 
-**Bachelor of Science in Data Science**  
-*Kakaraparti Bhavanarayana (KBN) College*  
-📅 June 2022 | 📈 CGPA: 8.9  
+* Built an RAG chatbot improving medical Q\&A accuracy by **30%**
+* Utilized **FAISS** for 40% faster vector search over 1M+ documents
+* Deployed via **Streamlit**, resulting in 50% more user interaction
+
+### 🧬 Skin Cancer Segmentation – **U-Net & Attention U-Net**
+
+* Preprocessed 400+ dermoscopic images
+* Achieved Dice coefficient **0.88**, Sensitivity **90%**, Specificity **85%**
+* Demonstrated precision medicine potential using DL
+
+### 🌫️ AQI Forecasting with ML Models
+
+* Modeled 10+ years of AQI data
+* Used Linear Regression & Decision Trees
+* Reached **R² = 0.85**, **RMSE = 10.5**
+* Visualized seasonal AQI variation impacting public health
+
+### 🧠 Multi-Agent RAG System (Work-in-Progress)
+
+* **Agents**: Question Validator, Retriever, Answer Generator, Human Feedback Validator
+* Built with **AutoGen**, **LangChain**, **ChromaDB**, **CSV**, and **LLaMA2**
+* Enables iterative answer refinement and feedback collection
 
 ---
 
-## 📑 Certifications
+## 🎓 Education
 
-- **Machine Learning Using Python** – *Udemy*  
-  Hands-on modules covering regression, classification, clustering, and neural nets using scikit-learn and TensorFlow.
+🎓 **M.Sc. in Data Science**
+Vellore Institute of Technology, Amaravati (2024) | CGPA: 8.58
 
-- **Introduction to Gen AI and Large Language Models** – *Google Cloud*  
-  Explored Transformer architectures, generative applications, and responsible AI practices.
+🎓 **B.Sc. in Data Science**
+KBN College, Vijayawada (2022) | CGPA: 8.9
 
-- **Building RAG Agents with LLMs** – *NVIDIA Developer Program*
+---
 
-- **Responsible AI: Fairness & Bias** – *Google Cloud*
+## 📜 Certifications
+
+* 🧠 *Machine Learning Using Python* – Udemy
+* 🤖 *Intro to Gen AI & LLMs* – Google Cloud
+* 🧬 *Building RAG Agents with LLMs* – NVIDIA
+* ⚖️ *Responsible AI: Fairness & Bias* – Google Cloud
 
 ---
 
 ## 🧩 What I’m Currently Working On
 
-- 🚧 Building a **Multi-Agent RAG System** using AutoGen with LLaMA2, ChromaDB, and human feedback loop.
-- 🔬 Conducting comparative analysis on **Mistral-7B vs. LLaMA2-7B** for domain-specific knowledge retrieval.
-- ⚡ Fine-tuning quantized LLMs for real-time document Q&A and chatbot deployment.
+* 🔬 Fine-tuning **Mistral-7B** vs **LLaMA2-7B** for retrieval applications
+* 🔁 Enhancing **Multi-Agent RAG pipelines** with feedback loops
+* 🧠 Creating scalable, real-time **DocQA systems** using **AutoGen**
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Connect With Me
 
-- 📧 Email: rupeshmohan33@gmail.com  
-- 🔗 [GitHub](https://github.com/your-github-username)  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin-url)  
-- 🌐 Portfolio (coming soon)
+📧 **Email:** [rupeshmohan33@gmail.com](mailto:rupeshmohan33@gmail.com)
+📞 **Phone:** +91-9347601026
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/rupeshmohan33)
 
 ---
 
-> ⚡ *Passionate about using AI to solve real-world problems. Always learning, always building. Let's innovate together!*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+AI+Engineer;Always+learning+new+things;Open+Source+Contributor;Let's+build+together!&center=true&width=1000&height=50">
+</p>
 
+---
+
+> 🚀 *Let’s push the boundaries of what AI can do — together.*
