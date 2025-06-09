@@ -1,7 +1,7 @@
 # 👋 Mahankali N V R Pavan Sai Mohan
 
 🎓 AI Engineer | Data Scientist | Deep Learning Enthusiast | Gen AI Practitioner  
-📍 India | 📧 rupeshmohan33@gmail.com | 📞 +91-9347601026  
+📍 India | 📧 rupeshmohan33@gmail.com | 
 🔗 [GitHub](https://github.com/your-github-username) • [LinkedIn](https://linkedin.com/in/your-linkedin-url)
 
 ---
